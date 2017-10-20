@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 881 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-4296,3.50494e-14)">
+        <g id="leaf-logo" transform="matrix(0.860254,-3.42279e-17,-3.42279e-17,1,600.349,1.47043e-13)">
+            <clipPath id="_clip1">
+                <rect x="4296" y="0" width="1024" height="1024"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="black-back" transform="matrix(1.16245,3.97882e-17,3.97882e-17,1,-697.874,-1.7093e-13)">
+                    <rect x="4296" y="0" width="880.9" height="1024" style="fill:black;"/>
+                </g>
+                <g transform="matrix(13.5128,4.62517e-16,4.62517e-16,11.6245,-187.821,-5013.4)">
+                    <g>
+                        <path d="M331.819,431.279C392.912,433.468 416.471,468.989 404.644,500.69C401.293,509.511 397.733,514.339 390.245,519.369C390.55,518.098 390.864,516.82 391.101,515.519C395.531,490.787 387.137,461.029 346.081,444.59C378.746,463.424 391.928,496.931 376.695,518.561C350.768,522.509 331.819,501.059 331.819,476.346L331.819,431.279Z" style="fill:rgb(60,176,84);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
