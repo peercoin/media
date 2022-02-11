@@ -1,0 +1,29 @@
+-----------
+Color Codes
+-----------
+
+Use these color codes to keep branding and visuals consistent
+across the Peercoin ecosystem.
+
+Green: #3cb054
+White: #ffffff
+
+--------------
+Text Logo Font
+--------------
+
+The following Google font is used for the "Peercoin" text logo.
+
+- Font Name: Red Hat Text
+- Thickness: Medium
+- Download: https://fonts.google.com/specimen/Red+Hat+Text
+
+-------------
+Standard Font
+-------------
+
+The following Google font is used throughout the Peercoin ecosystem
+on various websites, wallets and applications.
+
+- Font Name: Roboto
+- Download: https://fonts.google.com/specimen/Roboto
